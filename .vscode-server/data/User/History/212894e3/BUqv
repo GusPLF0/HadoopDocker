@@ -1,0 +1,6 @@
+.PHONY: build
+
+build:
+	@docker build -t gustavo/spark-base-hadoop ./hadoop/spark-base
+	@docker build -t gustavo/spark-master-hadoop ./hadoop/spark-master
+	@docker build -t gustavo/spark-worker-hadoop ./hadoop/spark-worker

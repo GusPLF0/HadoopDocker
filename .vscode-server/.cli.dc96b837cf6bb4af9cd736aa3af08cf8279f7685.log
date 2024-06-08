@@ -1,0 +1,6 @@
+Listening on 127.0.0.1:42355
+[2024-06-07 17:25:31] info Disposed of connection to running server.
+looking for token 160d6379-d654-44b3-9ad5-fd56a9986670, got Some("160d6379-d654-44b3-9ad5-fd56a9986670")
+[2024-06-07 17:25:31] info Checking /home/gustavo/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/log.txt and /home/gustavo/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/pid.txt for a running server...
+[2024-06-07 17:25:31] info Starting server...
+[2024-06-07 17:25:32] info Server started
